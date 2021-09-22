@@ -7,6 +7,6 @@ namespace ProyectoCiclo3.App.Dominio{
         public int mumero_asientos { get; set; }
         public int numero_banos { get; set; }
         public int capacidad_maxima { get; set; }
-    }
+    }//comentario
 
 }
